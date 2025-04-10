@@ -1,0 +1,2 @@
+1,Toyota,Camry,Lavender,Japan,10000.0
+2,Toyota,Camry,Dark Grey,America,16000.0
